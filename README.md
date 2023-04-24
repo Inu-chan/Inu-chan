@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Inu-chan. You can also call me 水狗酱.
-- 👀 I’m interested in **Both Back-end & Front-end dev.**
+- 👋 Hi, I’m @Inu-chan. You can also call me Felix or 水狗酱.
+- 👀 I’m interested in **Back-end & Front-end dev.**
 - 🌱 I’m currently learning **Machine Learning (using Python language), Web Front-end dev., algorithms.**
+- ✨ Nowadays I'm busying with my graduation project.
 - 💞️ I’m looking to collaborate on... temporarily nothing.
 
 <!---
